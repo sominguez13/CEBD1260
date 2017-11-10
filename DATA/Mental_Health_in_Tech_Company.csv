@@ -1,0 +1,1260 @@
+,Country,Age,Gender,treatment,tech_company
+1,United States, adolescent,F,Yes,No
+2,United States, adolescent,M,No,No
+3,"Bahamas, The", adolescent,F,Yes,Yes
+4,United States, adolescent,M,No,Yes
+5,United Kingdom, adolescent,M,Yes,Yes
+6,United Kingdom, adolescent,F,No,Yes
+7,Netherlands, adolescent,M,Yes,Yes
+8,United States, adolescent,M,No,Yes
+9,United States, adolescent,M,Yes,Yes
+10,United States, adolescent,M,Yes,Yes
+11,Finland, adolescent,M,No,Yes
+12,Russia, adolescent,F,No,No
+13,United Kingdom, adolescent,M,No,Yes
+14,Slovenia, adolescent,M,No,Yes
+15,Canada, adolescent,M,Yes,Yes
+16,Canada, adolescent,M,No,Yes
+17,Canada, adolescent,M,Yes,Yes
+18,United Kingdom, adolescent,M,Yes,Yes
+19,Canada, adolescent,M,No,Yes
+20,United States, adolescent,M,No,Yes
+21,United States, adolescent,F,No,Yes
+22,Switzerland, adolescent,F,Yes,No
+23,United States, adolescent,F,No,Yes
+24,Australia, adolescent,M,Yes,Yes
+25,United States, adolescent,M,No,Yes
+26,India, adolescent,M,No,Yes
+27,Georgia, adolescent,M,Yes,Yes
+28,United Kingdom, adolescent,M,No,No
+29,United States, adolescent,F,Yes,Yes
+30,United Kingdom, adolescent,F,Yes,Yes
+31,United Kingdom, adolescent,M,No,Yes
+32,Canada, adolescent,M,No,No
+33,United States, adolescent,M,Yes,Yes
+34,United States, adolescent,M,Yes,No
+35,United Kingdom, adolescent,M,Yes,Yes
+36,United States, adolescent,M,Yes,No
+37,United States, adolescent,M,No,Yes
+38,Canada, adolescent,M,No,No
+39,United States, adolescent,M,No,Yes
+40,Germany, adolescent,M,No,Yes
+41,United States, adolescent,M,No,Yes
+42,United Kingdom, adolescent,M,Yes,No
+43,United Kingdom, adolescent,M,No,No
+44,United States, adolescent,F,Yes,No
+45,United States, adolescent,F,Yes,Yes
+46,United States, adolescent,F,No,Yes
+47,Netherlands, adolescent,F,Yes,Yes
+48,United States, adolescent,F,No,Yes
+49,United States, adolescent,F,Yes,Yes
+50,United States, adolescent,M,Yes,Yes
+51,United States, adolescent,M,Yes,Yes
+52,Austria, adolescent,M,Yes,Yes
+53,India, adolescent,M,No,Yes
+54,Sweden, adolescent,M,Yes,Yes
+55,Australia, adolescent,M,No,Yes
+56,United States, adolescent,M,Yes,Yes
+57,Brazil, adolescent,M,No,Yes
+58,United States, adolescent,M,No,Yes
+59,Netherlands, adolescent,M,No,Yes
+60,United Kingdom, adolescent,M,Yes,Yes
+61,Netherlands, adolescent,M,Yes,Yes
+62,India, adolescent,M,No,Yes
+63,India, adolescent,M,No,Yes
+64,Australia, adolescent,M,No,Yes
+65,Australia,Adult,F,Yes,No
+66,United States,Adult,F,Yes,Yes
+67,United Kingdom,Adult,F,No,Yes
+68,United States,Adult,F,Yes,Yes
+69,United States,Adult,F,Yes,No
+70,United States,Adult,F,Yes,Yes
+71,United States,Adult,F,Yes,Yes
+72,United States,Adult,F,Yes,Yes
+73,United Kingdom,Adult,F,No,No
+74,United States,Adult,F,No,Yes
+75,India,Adult,F,Yes,Yes
+76,United Kingdom,Adult,F,Yes,Yes
+77,United States,Adult,F,No,No
+78,Ireland,Adult,F,No,No
+79,United Kingdom,Adult,F,Yes,Yes
+80,Canada,Adult,M,Yes,Yes
+81,United Kingdom,Adult,M,No,Yes
+82,United Kingdom,Adult,M,Yes,Yes
+83,United States,Adult,M,No,Yes
+84,Ireland,Adult,M,No,No
+85,United Kingdom,Adult,M,No,Yes
+86,United States,Adult,M,No,Yes
+87,United States,Adult,M,No,Yes
+88,United States,Adult,M,Yes,No
+89,United States,Adult,M,No,Yes
+90,United States,Adult,M,Yes,No
+91,India,Adult,M,No,Yes
+92,United States,Adult,M,No,Yes
+93,Canada,Adult,M,No,No
+94,Germany,Adult,M,Yes,Yes
+95,United States,Adult,M,Yes,Yes
+96,Sweden,Adult,M,No,No
+97,United States,Adult,M,No,Yes
+98,United States,Adult,M,Yes,Yes
+99,United States,Adult,M,No,Yes
+100,United States,Adult,M,No,Yes
+101,Canada,Adult,M,No,Yes
+102,United States,Adult,M,Yes,Yes
+103,United States,Adult,M,Yes,No
+104,United States,Adult,M,Yes,Yes
+105,United States,Adult,M,No,Yes
+106,United States,Adult,M,No,No
+107,Israel,Adult,M,No,Yes
+108,Germany,Adult,M,No,Yes
+109,Israel,Adult,M,Yes,Yes
+110,United Kingdom,Adult,M,No,No
+111,United States,Adult,M,Yes,Yes
+112,United Kingdom,Adult,M,Yes,Yes
+113,Canada,Adult,M,Yes,Yes
+114,United Kingdom,Adult,M,Yes,Yes
+115,United States,Adult,F,No,Yes
+116,United Kingdom,Adult,M,No,Yes
+117,United States,Adult,F,Yes,Yes
+118,United States,Adult,F,No,Yes
+119,United States,Adult,F,Yes,Yes
+120,United States,Adult,F,No,No
+121,United States,Adult,F,No,Yes
+122,United States,Adult,F,Yes,Yes
+123,United States,Adult,F,Yes,Yes
+124,United Kingdom,Adult,F,Yes,Yes
+125,United States,Adult,F,Yes,Yes
+126,United Kingdom,Adult,F,Yes,Yes
+127,United States,Adult,F,Yes,Yes
+128,United Kingdom,Adult,M,No,No
+129,United States,Adult,M,Yes,Yes
+130,United States,Adult,M,Yes,Yes
+131,Canada,Adult,M,No,Yes
+132,United Kingdom,Adult,M,Yes,Yes
+133,United Kingdom,Adult,M,No,Yes
+134,United Kingdom,Adult,M,No,Yes
+135,United States,Adult,M,No,Yes
+136,United States,Adult,M,No,Yes
+137,United States,Adult,M,No,Yes
+138,United States,Adult,M,No,Yes
+139,United Kingdom,Adult,M,No,Yes
+140,United States,Adult,M,No,Yes
+141,United States,Adult,M,No,Yes
+142,United States,Adult,M,No,Yes
+143,United States,Adult,M,Yes,Yes
+144,Austria,Adult,M,Yes,Yes
+145,United States,Adult,M,No,Yes
+146,United States,Adult,M,No,Yes
+147,Germany,Adult,M,No,No
+148,Ireland,Adult,M,No,Yes
+149,France,Adult,M,No,Yes
+150,United States,Adult,M,No,Yes
+151,United States,Adult,M,No,Yes
+152,United Kingdom,Adult,M,No,Yes
+153,United Kingdom,Adult,M,No,Yes
+154,United Kingdom,Adult,M,Yes,No
+155,Germany,Adult,M,No,Yes
+156,United States,Adult,M,Yes,Yes
+157,Canada,Adult,M,Yes,Yes
+158,United Kingdom,Adult,M,No,Yes
+159,Ireland,Adult,M,No,Yes
+160,Ireland,Adult,M,No,Yes
+161,United Kingdom,Adult,M,Yes,Yes
+162,Canada,Adult,F,Yes,No
+163,United States,Adult,F,Yes,Yes
+164,United States,Adult,F,Yes,Yes
+165,Sweden,Adult,F,Yes,Yes
+166,United States,Adult,F,No,Yes
+167,United States,Adult,F,Yes,Yes
+168,United States,Adult,F,Yes,Yes
+169,United States,Adult,f,Yes,Yes
+170,United States,Adult,f,No,Yes
+171,United States,Adult,F,Yes,Yes
+172,Canada,Adult,F,Yes,Yes
+173,United States,Adult,F,Yes,Yes
+174,Bulgaria,Adult,F,No,Yes
+175,United States,Adult,M,Yes,Yes
+176,United States,Adult,M,No,Yes
+177,United States,Adult,M,No,Yes
+178,United States,Adult,M,No,Yes
+179,United States,Adult,M,Yes,No
+180,United Kingdom,Adult,M,Yes,Yes
+181,South Africa,Adult,M,No,Yes
+182,Australia,Adult,M,No,Yes
+183,Canada,Adult,M,Yes,Yes
+184,United States,Adult,M,No,No
+185,Canada,Adult,M,No,Yes
+186,United States,Adult,M,Yes,No
+187,United States,Adult,M,No,No
+188,United States,Adult,M,Yes,Yes
+189,United States,Adult,M,No,Yes
+190,Canada,Adult,M,Yes,Yes
+191,Germany,Adult,M,Yes,Yes
+192,United States,Adult,M,Yes,Yes
+193,Germany,Adult,M,No,Yes
+194,Bosnia and Herzegovina,Adult,M,No,No
+195,Ireland,Adult,M,No,Yes
+196,Nigeria,Adult,M,Yes,Yes
+197,Germany,Adult,M,No,Yes
+198,United States,Adult,M,No,Yes
+199,United States,Adult,M,Yes,Yes
+200,United States,Adult,M,No,Yes
+201,United States,Adult,M,Yes,No
+202,United States,Adult,M,Yes,Yes
+203,United States,Adult,M,No,Yes
+204,United States,Adult,M,Yes,No
+205,Germany,Adult,M,No,Yes
+206,United Kingdom,Adult,M,No,Yes
+207,United States,Adult,M,No,Yes
+208,United States,Adult,M,Yes,Yes
+209,United States,Adult,M,No,Yes
+210,South Africa,Adult,M,Yes,Yes
+211,United States,Adult,M,Yes,No
+212,United States,Adult,M,No,No
+213,United States,Adult,M,Yes,Yes
+214,United States,Adult,M,Yes,Yes
+215,United States,Adult,M,Yes,Yes
+216,United Kingdom,Adult,M,Yes,Yes
+217,Ireland,Adult,M,Yes,Yes
+218,United States,Adult,M,No,Yes
+219,United Kingdom,Adult,M,Yes,Yes
+220,United States,Adult,M,Yes,No
+221,United States,Adult,M,Yes,No
+222,United States,Adult,F,Yes,Yes
+223,Poland,Adult,F,No,No
+224,Canada,Adult,F,Yes,Yes
+225,India,Adult,f,Yes,No
+226,United States,Adult,F,No,No
+227,United States,Adult,F,Yes,Yes
+228,United States,Adult,F,Yes,Yes
+229,United States,Adult,F,Yes,Yes
+230,United States,Adult,F,Yes,Yes
+231,United States,Adult,F,No,No
+232,United States,Adult,F,Yes,Yes
+233,United States,Adult,F,No,Yes
+234,United States,Adult,F,Yes,No
+235,Australia,Adult,F,Yes,Yes
+236,Israel,Adult,F,No,No
+237,United Kingdom,Adult,F,No,Yes
+238,United States,Adult,F,Yes,Yes
+239,United States,Adult,F,Yes,Yes
+240,Canada,Adult,F,No,Yes
+241,United States,Adult,F,Yes,Yes
+242,United States,Adult,F,Yes,Yes
+243,United States,Adult,F,No,Yes
+244,Canada,Adult,M,Yes,Yes
+245,United States,Adult,M,No,Yes
+246,France,Adult,M,No,No
+247,United Kingdom,Adult,M,No,Yes
+248,United States,Adult,M,No,Yes
+249,United States,Adult,M,No,No
+250,United Kingdom,Adult,M,No,Yes
+251,France,Adult,M,Yes,Yes
+252,United States,Adult,M,No,Yes
+253,Bulgaria,Adult,M,No,Yes
+254,United Kingdom,Adult,M,No,Yes
+255,United Kingdom,Adult,M,Yes,Yes
+256,United States,Adult,M,Yes,Yes
+257,Canada,Adult,M,No,Yes
+258,United States,Adult,M,Yes,Yes
+259,United States,Adult,M,No,Yes
+260,United States,Adult,M,Yes,Yes
+261,United States,Adult,M,Yes,Yes
+262,United States,Adult,M,Yes,No
+263,Canada,Adult,M,Yes,Yes
+264,United States,Adult,M,Yes,Yes
+265,United States,Adult,M,Yes,Yes
+266,Uruguay,Adult,M,No,Yes
+267,United States,Adult,M,No,Yes
+268,United Kingdom,Adult,M,No,Yes
+269,France,Adult,M,No,Yes
+270,Israel,Adult,M,No,Yes
+271,United States,Adult,M,No,Yes
+272,Ireland,Adult,M,Yes,Yes
+273,Netherlands,Adult,M,No,Yes
+274,Russia,Adult,M,No,Yes
+275,United States,Adult,M,No,Yes
+276,United States,Adult,M,No,Yes
+277,Canada,Adult,M,Yes,Yes
+278,United Kingdom,Adult,M,No,Yes
+279,India,Adult,M,Yes,Yes
+280,United States,Adult,M,No,Yes
+281,United States,Adult,M,Yes,Yes
+282,Germany,Adult,M,Yes,Yes
+283,Belgium,Adult,M,No,Yes
+284,United States,Adult,M,No,Yes
+285,Australia,Adult,M,No,Yes
+286,United States,Adult,M,Yes,Yes
+287,United States,Adult,M,Yes,Yes
+288,United States,Adult,M,No,No
+289,Australia,Adult,M,No,Yes
+290,Germany,Adult,M,Yes,Yes
+291,Moldova,Adult,M,Yes,Yes
+292,United Kingdom,Adult,M,Yes,Yes
+293,United States,Adult,M,No,Yes
+294,Colombia,Adult,M,Yes,Yes
+295,United Kingdom,Adult,M,No,Yes
+296,Canada,Adult,M,Yes,Yes
+297,Germany,Adult,F,No,Yes
+298,United States,Adult,F,Yes,Yes
+299,United States,Adult,F,Yes,Yes
+300,United States,Adult,F,Yes,Yes
+301,United States,Adult,F,Yes,Yes
+302,United States,Adult,F,Yes,Yes
+303,United States,Adult,F,Yes,Yes
+304,United States,Adult,F,Yes,Yes
+305,Hungary,Adult,F,Yes,Yes
+306,Australia,Adult,F,No,Yes
+307,New Zealand,Adult,F,Yes,Yes
+308,United States,Adult,F,Yes,Yes
+309,United Kingdom,Adult,f,No,Yes
+310,United States,Adult,F,Yes,Yes
+311,United States,Adult,F,Yes,Yes
+312,United States,Adult,F,No,Yes
+313,United Kingdom,Adult,F,Yes,Yes
+314,United States,Adult,F,No,No
+315,Canada,Adult,M,No,No
+316,United States,Adult,M,No,Yes
+317,Canada,Adult,M,Yes,Yes
+318,United States,Adult,M,Yes,Yes
+319,United Kingdom,Adult,M,Yes,Yes
+320,Canada,Adult,M,No,Yes
+321,Canada,Adult,M,No,No
+322,United States,Adult,M,Yes,No
+323,United Kingdom,Adult,M,No,Yes
+324,United States,Adult,M,No,Yes
+325,United States,Adult,M,No,Yes
+326,United States,Adult,M,Yes,Yes
+327,United States,Adult,M,Yes,Yes
+328,United States,Adult,M,No,Yes
+329,United Kingdom,Adult,M,No,Yes
+330,Canada,Adult,M,No,No
+331,Portugal,Adult,M,No,Yes
+332,United Kingdom,Adult,M,No,Yes
+333,United States,Adult,M,Yes,Yes
+334,United States,Adult,M,No,Yes
+335,United States,Adult,M,No,Yes
+336,United States,Adult,M,No,Yes
+337,United States,Adult,M,Yes,Yes
+338,United States,Adult,M,Yes,Yes
+339,Brazil,Adult,M,Yes,Yes
+340,United States,Adult,M,No,Yes
+341,Germany,Adult,M,Yes,Yes
+342,Israel,Adult,M,Yes,Yes
+343,United Kingdom,Adult,M,No,Yes
+344,United Kingdom,Adult,M,No,Yes
+345,United States,Adult,M,No,Yes
+346,Singapore,Adult,M,Yes,Yes
+347,Australia,Adult,M,No,Yes
+348,United States,Adult,M,Yes,Yes
+349,United States,Adult,M,No,Yes
+350,Australia,Adult,M,No,Yes
+351,United Kingdom,Adult,M,No,Yes
+352,France,Adult,M,No,Yes
+353,United Kingdom,Adult,M,No,Yes
+354,United Kingdom,Adult,M,No,Yes
+355,Switzerland,Adult,M,No,Yes
+356,United States,Adult,M,No,Yes
+357,France,Adult,M,No,Yes
+358,Canada,Adult,M,No,No
+359,Sweden,Adult,M,No,Yes
+360,United States,Adult,M,No,Yes
+361,United States,Adult,M,No,Yes
+362,New Zealand,Adult,M,Yes,Yes
+363,New Zealand,Adult,M,No,Yes
+364,United Kingdom,Adult,M,No,Yes
+365,Germany,Adult,M,Yes,No
+366,United Kingdom,Adult,M,No,Yes
+367,United States,Adult,M,No,No
+368,United Kingdom,Adult,F,No,Yes
+369,United Kingdom,Adult,M,No,Yes
+370,United Kingdom,Adult,F,Yes,Yes
+371,Canada,Adult,F,No,Yes
+372,United States,Adult,F,Yes,No
+373,United States,Adult,F,Yes,No
+374,United States,Adult,F,Yes,No
+375,United States,Adult,F,Yes,Yes
+376,United States,Adult,F,Yes,Yes
+377,Canada,Adult,F,Yes,Yes
+378,United States,Adult,F,No,Yes
+379,United States,Adult,F,Yes,Yes
+380,United States,Adult,F,Yes,Yes
+381,United States,Adult,F,Yes,Yes
+382,United States,Adult,F,Yes,Yes
+383,United States,Adult,F,Yes,Yes
+384,United Kingdom,Adult,M,Yes,Yes
+385,Switzerland,Adult,M,No,Yes
+386,France,Adult,M,No,Yes
+387,Germany,Adult,M,No,Yes
+388,Brazil,Adult,M,No,Yes
+389,United States,Adult,M,Yes,Yes
+390,United States,Adult,M,Yes,Yes
+391,United Kingdom,Adult,M,No,Yes
+392,Poland,Adult,M,No,Yes
+393,United Kingdom,Adult,M,No,Yes
+394,United States,Adult,M,No,No
+395,Russia,Adult,M,Yes,Yes
+396,United Kingdom,Adult,M,No,Yes
+397,United States,Adult,M,Yes,Yes
+398,United States,Adult,M,No,Yes
+399,United States,Adult,M,Yes,Yes
+400,Colombia,Adult,M,No,Yes
+401,United States,Adult,M,No,Yes
+402,United States,Adult,M,Yes,No
+403,United States,Adult,M,Yes,Yes
+404,Germany,Adult,M,Yes,Yes
+405,New Zealand,Adult,M,Yes,Yes
+406,Canada,Adult,M,Yes,Yes
+407,United States,Adult,M,No,Yes
+408,United Kingdom,Adult,M,No,Yes
+409,United States,Adult,M,Yes,Yes
+410,United States,Adult,M,Yes,Yes
+411,Germany,Adult,M,Yes,Yes
+412,United States,Adult,M,No,Yes
+413,United States,Adult,M,Yes,No
+414,Canada,Adult,M,No,Yes
+415,United Kingdom,Adult,M,No,Yes
+416,United Kingdom,Adult,M,No,Yes
+417,Brazil,Adult,M,No,No
+418,United States,Adult,M,No,Yes
+419,United States,Adult,M,Yes,Yes
+420,United States,Adult,M,No,Yes
+421,United States,Adult,M,Yes,No
+422,United States,Adult,M,Yes,Yes
+423,United Kingdom,Adult,M,Yes,Yes
+424,United States,Adult,M,Yes,Yes
+425,United Kingdom,Adult,M,Yes,Yes
+426,United Kingdom,Adult,M,No,Yes
+427,Brazil,Adult,M,No,Yes
+428,United States,Adult,M,No,Yes
+429,Belgium,Adult,M,No,No
+430,Australia,Adult,M,No,No
+431,Netherlands,Adult,M,Yes,Yes
+432,Netherlands,Adult,M,No,Yes
+433,Ireland,Adult,M,No,Yes
+434,United States,Adult,M,No,Yes
+435,Ireland,Adult,M,Yes,No
+436,United States,Adult,M,Yes,Yes
+437,United States,Adult,M,No,Yes
+438,United States,Adult,F,Yes,Yes
+439,United States,Adult,F,Yes,Yes
+440,United States,Adult,F,No,Yes
+441,United States,Adult,F,No,Yes
+442,United States,Adult,F,Yes,No
+443,United States,Adult,f,Yes,No
+444,United States,Adult,F,No,Yes
+445,Canada,Adult,F,Yes,Yes
+446,United States,Adult,f,No,Yes
+447,Australia,Adult,F,Yes,No
+448,United States,Adult,F,Yes,Yes
+449,Canada,Adult,F,Yes,No
+450,United States,Adult,F,Yes,No
+451,United Kingdom,Adult,F,Yes,Yes
+452,United States,Adult,F,Yes,Yes
+453,United Kingdom,Adult,f,Yes,No
+454,United States,Adult,F,Yes,No
+455,Bulgaria,Adult,M,No,Yes
+456,United States,Adult,M,Yes,Yes
+457,Canada,Adult,M,No,Yes
+458,United States,Adult,M,No,Yes
+459,United States,Adult,M,No,Yes
+460,United States,Adult,M,No,Yes
+461,Mexico,Adult,M,No,Yes
+462,United Kingdom,Adult,M,No,No
+463,Canada,Adult,M,No,Yes
+464,Poland,Adult,M,Yes,Yes
+465,United States,Adult,M,No,No
+466,Latvia,Adult,M,No,Yes
+467,United States,Adult,M,Yes,Yes
+468,Romania,Adult,M,No,No
+469,United States,Adult,M,No,Yes
+470,Belgium,Adult,M,No,No
+471,United States,Adult,M,No,Yes
+472,United States,Adult,M,No,No
+473,Canada,Adult,M,Yes,Yes
+474,Germany,Adult,M,Yes,Yes
+475,United States,Adult,M,Yes,Yes
+476,United Kingdom,Adult,M,No,Yes
+477,United States,Adult,M,No,Yes
+478,United States,Adult,M,Yes,Yes
+479,United States,Adult,M,No,Yes
+480,United States,Adult,M,Yes,Yes
+481,Canada,Adult,M,No,Yes
+482,Canada,Adult,M,Yes,No
+483,United States,Adult,M,Yes,Yes
+484,United States,Adult,M,No,Yes
+485,United States,Adult,M,No,Yes
+486,United States,Adult,M,No,Yes
+487,United Kingdom,Adult,M,Yes,Yes
+488,Poland,Adult,M,No,Yes
+489,Germany,Adult,M,No,Yes
+490,Netherlands,Adult,M,No,Yes
+491,United States,Adult,M,No,Yes
+492,United States,Adult,M,Yes,Yes
+493,United States,Adult,M,No,Yes
+494,Netherlands,Adult,M,No,Yes
+495,Canada,Adult,M,No,Yes
+496,United States,Adult,M,No,No
+497,United States,Adult,M,No,Yes
+498,United Kingdom,Adult,M,No,Yes
+499,United States,Adult,M,No,No
+500,United Kingdom,Adult,M,No,Yes
+501,United Kingdom,Adult,M,Yes,Yes
+502,United States,Adult,M,No,No
+503,Sweden,Adult,M,Yes,Yes
+504,United States,Adult,M,No,No
+505,United States,Adult,M,Yes,Yes
+506,United States,Adult,M,No,Yes
+507,United States,Adult,M,No,Yes
+508,United States,Adult,M,No,Yes
+509,Germany,Adult,M,No,Yes
+510,United Kingdom,Adult,M,Yes,Yes
+511,Netherlands,Adult,M,Yes,Yes
+512,United States,Adult,M,No,No
+513,United States,Adult,M,No,Yes
+514,France,Adult,M,Yes,Yes
+515,Sweden,Adult,M,No,Yes
+516,United States,Adult,M,Yes,Yes
+517,United States,Adult,M,Yes,No
+518,United States,Adult,M,No,Yes
+519,United States,Adult,M,No,Yes
+520,Singapore,Adult,M,Yes,Yes
+521,United States,Adult,M,Yes,Yes
+522,United States,Adult,M,Yes,Yes
+523,United States,Adult,F,Yes,No
+524,United States,Adult,F,No,Yes
+525,United States,Adult,F,Yes,Yes
+526,United States,Adult,F,No,Yes
+527,Spain,Adult,F,No,Yes
+528,United States,Adult,F,No,Yes
+529,United States,Adult,F,No,Yes
+530,United States,Adult,F,Yes,Yes
+531,United States,Adult,F,Yes,No
+532,United States,Adult,F,Yes,No
+533,Germany,Adult,F,Yes,Yes
+534,United Kingdom,Adult,M,Yes,Yes
+535,United States,Adult,M,Yes,Yes
+536,United States,Adult,M,Yes,Yes
+537,Canada,Adult,M,No,No
+538,United States,Adult,M,Yes,Yes
+539,Ireland,Adult,M,Yes,Yes
+540,United States,Adult,M,Yes,Yes
+541,Germany,Adult,M,Yes,Yes
+542,Netherlands,Adult,M,No,Yes
+543,United States,Adult,M,Yes,Yes
+544,Ireland,Adult,M,No,Yes
+545,United States,Adult,M,No,Yes
+546,Switzerland,Adult,M,No,Yes
+547,United States,Adult,M,No,No
+548,United States,Adult,M,No,Yes
+549,United Kingdom,Adult,M,Yes,Yes
+550,United Kingdom,Adult,M,No,Yes
+551,United States,Adult,M,No,Yes
+552,United States,Adult,M,Yes,Yes
+553,United States,Adult,M,Yes,Yes
+554,United States,Adult,M,No,No
+555,United Kingdom,Adult,M,No,Yes
+556,Germany,Adult,M,No,Yes
+557,Singapore,Adult,M,No,Yes
+558,United States,Adult,M,Yes,Yes
+559,United Kingdom,Adult,M,Yes,Yes
+560,Australia,Adult,M,No,Yes
+561,United Kingdom,Adult,M,Yes,Yes
+562,Italy,Adult,M,No,No
+563,Ireland,Adult,M,Yes,Yes
+564,Germany,Adult,M,No,Yes
+565,United States,Adult,M,No,No
+566,United States,Adult,M,No,Yes
+567,Canada,Adult,M,Yes,No
+568,Switzerland,Adult,M,Yes,Yes
+569,United States,Adult,M,Yes,Yes
+570,United States,Adult,M,Yes,Yes
+571,United States,Adult,M,No,Yes
+572,United States,Adult,M,No,Yes
+573,United Kingdom,Adult,M,Yes,Yes
+574,United States,Adult,M,No,Yes
+575,United States,Adult,M,No,No
+576,United Kingdom,Adult,M,Yes,Yes
+577,United States,Adult,M,Yes,Yes
+578,India,Adult,M,No,Yes
+579,United States,Adult,M,Yes,Yes
+580,United States,Adult,M,No,No
+581,Netherlands,Adult,M,No,Yes
+582,United States,Adult,M,Yes,Yes
+583,United States,Adult,M,Yes,Yes
+584,United States,Adult,M,No,Yes
+585,United States,Adult,F,Yes,Yes
+586,United Kingdom,Adult,M,Yes,Yes
+587,United States,Adult,F,No,No
+588,United States,Adult,f,Yes,Yes
+589,United States,Adult,F,Yes,No
+590,Canada,Adult,F,Yes,Yes
+591,United States,Adult,F,Yes,Yes
+592,United States,Adult,F,Yes,Yes
+593,United States,Adult,F,Yes,Yes
+594,Belgium,Adult,F,Yes,No
+595,United Kingdom,Adult,F,No,Yes
+596,United States,Adult,F,Yes,Yes
+597,United States,Adult,F,Yes,Yes
+598,United States,Adult,F,No,No
+599,United States,Adult,F,Yes,Yes
+600,Belgium,Adult,F,No,Yes
+601,United Kingdom,Adult,M,Yes,Yes
+602,United States,Adult,M,No,Yes
+603,United States,Adult,M,Yes,Yes
+604,United States,Adult,M,No,Yes
+605,United States,Adult,M,No,Yes
+606,United States,Adult,M,No,Yes
+607,United States,Adult,M,No,Yes
+608,United States,Adult,M,No,Yes
+609,United States,Adult,M,No,Yes
+610,Mexico,Adult,M,Yes,Yes
+611,United Kingdom,Adult,M,No,Yes
+612,United States,Adult,M,No,Yes
+613,United Kingdom,Adult,M,Yes,Yes
+614,United States,Adult,M,No,Yes
+615,Canada,Adult,M,No,Yes
+616,United States,Adult,M,Yes,Yes
+617,United States,Adult,M,No,No
+618,United States,Adult,M,Yes,No
+619,United States,Adult,M,No,Yes
+620,United States,Adult,M,Yes,Yes
+621,United States,Adult,M,No,Yes
+622,Australia,Adult,M,Yes,Yes
+623,United States,Adult,M,No,Yes
+624,United States,Adult,M,Yes,Yes
+625,United States,Adult,M,No,Yes
+626,United States,Adult,M,Yes,Yes
+627,Germany,Adult,M,No,Yes
+628,Germany,Adult,M,No,Yes
+629,France,Adult,M,No,Yes
+630,South Africa,Adult,M,No,Yes
+631,United States,Adult,M,No,No
+632,United States,Adult,M,Yes,Yes
+633,Canada,Adult,M,No,Yes
+634,United States,Adult,M,No,Yes
+635,United States,Adult,M,No,Yes
+636,United States,Adult,M,Yes,Yes
+637,United Kingdom,Adult,M,Yes,Yes
+638,United States,Adult,M,No,Yes
+639,United States,Adult,M,No,Yes
+640,United States,Adult,M,No,Yes
+641,United States,Adult,M,Yes,Yes
+642,United States,Adult,M,Yes,Yes
+643,United Kingdom,Adult,M,Yes,Yes
+644,United Kingdom,Adult,M,No,Yes
+645,India,Adult,M,No,Yes
+646,Brazil,Adult,M,Yes,Yes
+647,Philippines,Adult,M,No,Yes
+648,Germany,Adult,M,Yes,Yes
+649,Poland,Adult,M,Yes,Yes
+650,Canada,Adult,M,Yes,Yes
+651,United States,Adult,M,Yes,Yes
+652,Italy,Adult,M,No,Yes
+653,United States,Adult,F,Yes,Yes
+654,Germany,Adult,F,No,Yes
+655,United States,Adult,F,Yes,Yes
+656,United States,Adult,f,Yes,No
+657,United States,Adult,F,Yes,Yes
+658,United States,Adult,F,No,Yes
+659,Canada,Adult,F,Yes,No
+660,United States,Adult,F,Yes,Yes
+661,United Kingdom,Adult,F,Yes,Yes
+662,United States,Adult,F,Yes,Yes
+663,Ireland,Adult,F,No,Yes
+664,United Kingdom,Adult,F,No,No
+665,Canada,Adult,M,No,Yes
+666,United States,Adult,M,Yes,Yes
+667,United Kingdom,Adult,M,No,Yes
+668,United States,Adult,M,No,Yes
+669,United States,Adult,M,No,Yes
+670,United States,Adult,M,Yes,Yes
+671,United States,Adult,M,No,Yes
+672,United States,Adult,M,Yes,Yes
+673,United States,Adult,M,No,Yes
+674,United States,Adult,M,Yes,Yes
+675,United States,Adult,M,No,Yes
+676,United States,Adult,M,No,Yes
+677,United Kingdom,Adult,M,Yes,Yes
+678,United States,Adult,M,No,Yes
+679,United States,Adult,M,Yes,Yes
+680,United States,Adult,M,No,Yes
+681,United Kingdom,Adult,M,Yes,Yes
+682,United States,Adult,M,No,Yes
+683,United States,Adult,M,No,Yes
+684,United States,Adult,M,No,Yes
+685,United States,Adult,M,Yes,No
+686,United Kingdom,Adult,M,Yes,Yes
+687,United Kingdom,Adult,M,No,Yes
+688,United Kingdom,Adult,M,No,Yes
+689,United Kingdom,Adult,M,Yes,Yes
+690,United Kingdom,Adult,M,No,Yes
+691,New Zealand,Adult,M,Yes,Yes
+692,United States,Adult,M,Yes,Yes
+693,United States,Adult,M,No,Yes
+694,United States,Adult,M,Yes,Yes
+695,United States,Adult,M,Yes,No
+696,Germany,Adult,M,No,Yes
+697,United States,Adult,M,No,Yes
+698,United Kingdom,Adult,M,No,Yes
+699,United Kingdom,Adult,M,Yes,No
+700,United Kingdom,Adult,M,Yes,Yes
+701,United States,Adult,M,Yes,Yes
+702,United States,Adult,M,Yes,Yes
+703,Belgium,Adult,M,No,Yes
+704,Italy,Adult,M,No,Yes
+705,United Kingdom,Adult,M,No,No
+706,United Kingdom,Adult,M,No,Yes
+707,United Kingdom,Adult,M,No,Yes
+708,United Kingdom,Adult,M,Yes,No
+709,United Kingdom,Adult,M,Yes,No
+710,Germany,Adult,M,No,Yes
+711,United States,Adult,M,Yes,Yes
+712,United States,Adult,M,Yes,Yes
+713,United States,Adult,M,No,Yes
+714,United Kingdom,Adult,M,No,Yes
+715,United Kingdom,Adult,M,No,Yes
+716,United States,Adult,M,No,Yes
+717,United Kingdom,Adult,M,No,Yes
+718,Netherlands,Adult,M,Yes,Yes
+719,United Kingdom,Adult,M,Yes,No
+720,United States,Adult,M,Yes,Yes
+721,United States,Adult,M,Yes,Yes
+722,United Kingdom,Adult,M,Yes,Yes
+723,United Kingdom,Adult,M,No,Yes
+724,United States,Adult,M,No,Yes
+725,United States,Adult,M,Yes,Yes
+726,Canada,Adult,M,No,Yes
+727,United States,Adult,M,No,Yes
+728,United States,Adult,M,Yes,Yes
+729,Ireland,Adult,M,Yes,Yes
+730,United States,Adult,M,No,Yes
+731,United States,Adult,M,Yes,Yes
+732,Canada,Adult,M,No,Yes
+733,United Kingdom,Adult,M,Yes,No
+734,United States,Adult,F,Yes,Yes
+735,United States,Adult,M,Yes,Yes
+736,United States,Adult,F,Yes,Yes
+737,United States,Adult,f,No,Yes
+738,Sweden,Adult,F,Yes,Yes
+739,United States,Adult,F,No,Yes
+740,United States,Adult,F,Yes,Yes
+741,United States,Adult,F,Yes,Yes
+742,United States,Adult,F,Yes,Yes
+743,United Kingdom,Adult,F,Yes,Yes
+744,United States,Adult,F,No,Yes
+745,Canada,Adult,F,Yes,Yes
+746,United States,Adult,F,Yes,Yes
+747,United Kingdom,Adult,F,Yes,Yes
+748,United States,Adult,F,No,Yes
+749,United States,Adult,F,No,Yes
+750,United States,Adult,M,No,Yes
+751,United States,Adult,M,Yes,Yes
+752,United States,Adult,M,No,Yes
+753,United States,Adult,M,No,Yes
+754,Canada,Adult,M,Yes,Yes
+755,United States,Adult,M,No,Yes
+756,United States,Adult,M,No,Yes
+757,United States,Adult,M,Yes,Yes
+758,United States,Adult,M,Yes,Yes
+759,United States,Adult,M,Yes,Yes
+760,United States,Adult,M,No,Yes
+761,United Kingdom,Adult,M,No,Yes
+762,United States,Adult,M,Yes,Yes
+763,Canada,Adult,M,No,Yes
+764,United States,Adult,M,Yes,Yes
+765,Germany,Adult,M,Yes,No
+766,United Kingdom,Adult,M,No,Yes
+767,United States,Adult,M,Yes,Yes
+768,United States,Adult,M,Yes,Yes
+769,United States,Adult,M,No,Yes
+770,United States,Adult,M,Yes,Yes
+771,United States,Adult,M,Yes,Yes
+772,Italy,Adult,M,No,No
+773,Germany,Adult,M,Yes,Yes
+774,United States,Adult,M,No,Yes
+775,Australia,Adult,M,No,Yes
+776,United States,Adult,M,No,Yes
+777,United States,Adult,M,Yes,No
+778,Bulgaria,Adult,M,Yes,Yes
+779,United States,Adult,M,Yes,Yes
+780,United Kingdom,Adult,M,No,Yes
+781,United States,Adult,M,Yes,No
+782,United Kingdom,Adult,M,No,No
+783,United Kingdom,Adult,M,Yes,Yes
+784,Norway,Adult,M,No,Yes
+785,United States,Adult,M,Yes,Yes
+786,United States,Adult,M,Yes,Yes
+787,United States,Adult,M,No,Yes
+788,United States,Adult,M,Yes,Yes
+789,United States,Adult,M,No,No
+790,United States,Adult,M,No,Yes
+791,United States,Adult,M,Yes,Yes
+792,United States,Adult,M,No,Yes
+793,United States,Adult,M,Yes,Yes
+794,United States,Adult,M,No,Yes
+795,Netherlands,Adult,M,Yes,Yes
+796,Germany,Adult,M,Yes,Yes
+797,United Kingdom,Adult,M,No,Yes
+798,United Kingdom,Adult,M,Yes,Yes
+799,United States,Adult,M,No,Yes
+800,United States,Adult,M,No,Yes
+801,Croatia,Adult,M,Yes,Yes
+802,Czech Republic,Adult,M,No,Yes
+803,United States,Adult,M,Yes,Yes
+804,Italy,Adult,M,Yes,Yes
+805,United States,Adult,F,Yes,Yes
+806,Canada,Adult,F,Yes,No
+807,United States,Adult,F,Yes,No
+808,United States,Adult,F,No,Yes
+809,United States,Adult,F,Yes,Yes
+810,Australia,Adult,F,No,No
+811,United Kingdom,Adult,F,Yes,No
+812,United States,Adult,F,No,Yes
+813,Canada,Adult,F,Yes,No
+814,United Kingdom,Adult,F,No,No
+815,Ireland,Adult,F,Yes,No
+816,United Kingdom,Adult,F,Yes,No
+817,United States,Adult,M,Yes,Yes
+818,United States,Adult,M,No,Yes
+819,United States,Adult,M,No,Yes
+820,Canada,Adult,M,No,Yes
+821,United States,Adult,M,No,Yes
+822,United States,Adult,M,No,Yes
+823,United States,Adult,M,No,Yes
+824,Austria,Adult,M,No,Yes
+825,Australia,Adult,M,No,Yes
+826,United Kingdom,Adult,M,No,Yes
+827,United States,Adult,M,Yes,Yes
+828,United Kingdom,Adult,M,No,Yes
+829,United States,Adult,M,No,No
+830,United States,Adult,M,Yes,Yes
+831,United States,Adult,M,Yes,Yes
+832,Germany,Adult,M,Yes,Yes
+833,Finland,Adult,M,No,Yes
+834,United States,Adult,M,No,Yes
+835,United States,Adult,M,No,Yes
+836,United States,Adult,M,Yes,Yes
+837,United States,Adult,M,No,Yes
+838,Netherlands,Adult,M,No,Yes
+839,United Kingdom,Adult,M,Yes,Yes
+840,Australia,Adult,M,No,Yes
+841,United States,Adult,M,Yes,No
+842,United States,Adult,M,Yes,Yes
+843,United States,Adult,M,Yes,Yes
+844,United Kingdom,Adult,M,No,Yes
+845,Germany,Adult,M,No,Yes
+846,United Kingdom,Adult,M,Yes,Yes
+847,United States,Adult,M,No,Yes
+848,United States,Adult,M,Yes,Yes
+849,United States,Adult,M,Yes,Yes
+850,United Kingdom,Adult,M,No,Yes
+851,Germany,Adult,M,Yes,Yes
+852,United Kingdom,Adult,M,Yes,Yes
+853,United States,Adult,M,No,Yes
+854,Netherlands,Adult,M,Yes,Yes
+855,Netherlands,Adult,M,Yes,Yes
+856,United States,Adult,M,Yes,Yes
+857,United Kingdom,Adult,M,No,Yes
+858,United States,Adult,M,No,Yes
+859,United States,Adult,M,No,No
+860,United States,Adult,M,No,Yes
+861,Greece,Adult,M,No,Yes
+862,United States,Adult,M,No,Yes
+863,Poland,Adult,M,No,Yes
+864,Canada,Adult,M,No,Yes
+865,Ireland,Adult,M,Yes,Yes
+866,Ireland,Adult,M,Yes,Yes
+867,United Kingdom,Adult,M,No,No
+868,United States,Adult,M,Yes,Yes
+869,United States,Adult,F,Yes,No
+870,United States,Adult,F,Yes,Yes
+871,United States,Adult,F,Yes,Yes
+872,United States,Adult,F,Yes,Yes
+873,United States,Adult,F,No,Yes
+874,United States,Adult,F,Yes,Yes
+875,United States,Adult,F,Yes,No
+876,United States,Adult,F,Yes,Yes
+877,United States,Adult,F,Yes,No
+878,United States,Adult,F,No,Yes
+879,United States,Adult,F,Yes,Yes
+880,Ireland,Adult,F,No,Yes
+881,United States,Adult,M,Yes,No
+882,United States,Adult,M,Yes,Yes
+883,United States,Adult,M,No,Yes
+884,Canada,Adult,M,No,Yes
+885,United States,Adult,M,No,Yes
+886,United States,Adult,M,Yes,Yes
+887,United States,Adult,M,No,Yes
+888,United States,Adult,M,No,No
+889,United States,Adult,M,Yes,Yes
+890,United States,Adult,M,Yes,Yes
+891,United States,Adult,M,No,Yes
+892,United States,Adult,M,Yes,Yes
+893,United States,Adult,M,No,No
+894,United States,Adult,M,No,Yes
+895,United Kingdom,Adult,M,No,Yes
+896,United States,Adult,M,Yes,Yes
+897,Netherlands,Adult,M,No,Yes
+898,United States,Adult,M,No,No
+899,United States,Adult,M,No,Yes
+900,United States,Adult,M,No,Yes
+901,United States,Adult,M,No,Yes
+902,United States,Adult,M,Yes,No
+903,Germany,Adult,M,Yes,No
+904,United States,Adult,M,No,Yes
+905,Germany,Adult,M,No,Yes
+906,Canada,Adult,M,No,Yes
+907,United States,Adult,M,Yes,Yes
+908,United States,Adult,M,Yes,No
+909,Denmark,Adult,M,Yes,Yes
+910,Denmark,Adult,M,Yes,Yes
+911,United States,Adult,M,Yes,No
+912,United States,Adult,M,No,Yes
+913,United States,Adult,M,Yes,Yes
+914,United States,Adult,M,Yes,Yes
+915,United States,Adult,M,Yes,No
+916,United States,Adult,M,Yes,Yes
+917,Germany,Adult,M,Yes,No
+918,United Kingdom,Adult,M,No,Yes
+919,United Kingdom,Adult,M,Yes,Yes
+920,Canada,Adult,M,No,Yes
+921,United States,Adult,M,No,Yes
+922,Switzerland,Adult,M,Yes,Yes
+923,United States,Adult,M,No,Yes
+924,United States,Adult,M,Yes,No
+925,United States,Adult,F,Yes,Yes
+926,United States,Adult,f,No,Yes
+927,United Kingdom,Adult,F,No,Yes
+928,United States,Adult,F,Yes,Yes
+929,United States,Adult,F,Yes,Yes
+930,United States,Adult,M,No,Yes
+931,France,Adult,M,No,Yes
+932,United States,Adult,M,No,Yes
+933,United States,Adult,M,No,Yes
+934,United States,Adult,M,No,Yes
+935,United Kingdom,Adult,M,Yes,No
+936,United States,Adult,M,Yes,Yes
+937,United States,Adult,M,Yes,Yes
+938,United States,Adult,M,No,Yes
+939,United States,Adult,M,Yes,Yes
+940,United States,Adult,M,No,Yes
+941,United States,Adult,M,No,Yes
+942,United States,Adult,M,Yes,No
+943,United States,Adult,M,Yes,Yes
+944,United States,Adult,M,Yes,Yes
+945,United States,Adult,M,Yes,Yes
+946,Poland,Adult,M,Yes,Yes
+947,Germany,Adult,M,No,Yes
+948,United States,Adult,M,Yes,No
+949,United States,Adult,M,Yes,Yes
+950,United States,Adult,M,No,Yes
+951,United States,Adult,M,No,Yes
+952,United Kingdom,Adult,M,No,Yes
+953,Netherlands,Adult,M,Yes,Yes
+954,United States,Adult,M,No,Yes
+955,United States,Adult,M,Yes,Yes
+956,United States,Adult,M,No,No
+957,United States,Adult,M,No,Yes
+958,United States,Adult,M,Yes,No
+959,Finland,Adult,M,Yes,Yes
+960,South Africa,Adult,M,Yes,No
+961,United States,Adult,M,No,No
+962,United States,Adult,F,Yes,Yes
+963,United States,Adult,F,Yes,No
+964,United States,Adult,F,Yes,Yes
+965,United States,Adult,F,Yes,Yes
+966,United States,Adult,F,No,Yes
+967,United States,Adult,F,Yes,No
+968,United States,Adult,F,Yes,Yes
+969,Canada,Adult,F,Yes,Yes
+970,United States,Adult,F,Yes,Yes
+971,Canada,Adult,M,Yes,No
+972,United Kingdom,Adult,M,No,Yes
+973,United Kingdom,Adult,M,Yes,No
+974,United States,Adult,M,Yes,No
+975,United Kingdom,Adult,M,Yes,No
+976,United States,Adult,M,No,Yes
+977,Ireland,Adult,M,No,Yes
+978,United Kingdom,Adult,M,No,No
+979,Canada,Adult,M,Yes,Yes
+980,United States,Adult,M,No,Yes
+981,Canada,Adult,M,Yes,No
+982,United States,Adult,M,No,Yes
+983,United States,Adult,M,No,Yes
+984,United States,Adult,M,No,No
+985,Ireland,Adult,M,No,Yes
+986,France,Adult,M,No,Yes
+987,United States,Adult,M,Yes,Yes
+988,United States,Adult,M,No,Yes
+989,United Kingdom,Adult,M,Yes,Yes
+990,Australia,Adult,M,Yes,Yes
+991,United States,Adult,M,Yes,Yes
+992,Ireland,Adult,M,Yes,Yes
+993,United Kingdom,Adult,M,Yes,Yes
+994,Netherlands,Adult,M,No,No
+995,Italy,Adult,M,No,Yes
+996,United States,Adult,M,No,No
+997,United States,Adult,M,No,Yes
+998,United States,Adult,M,No,Yes
+999,Germany,Adult,M,No,Yes
+1000,United States,Adult,M,Yes,Yes
+1001,Germany,Adult,M,No,Yes
+1002,Netherlands,Adult,M,No,Yes
+1003,Netherlands,Adult,M,No,Yes
+1004,United Kingdom,Adult,M,No,Yes
+1005,United States,Adult,M,No,Yes
+1006,United States,Adult,F,Yes,Yes
+1007,South Africa,Adult,F,Yes,Yes
+1008,United States,Adult,F,Yes,Yes
+1009,United States,Adult,F,Yes,Yes
+1010,United States,Adult,F,Yes,No
+1011,United States,Adult,f,Yes,No
+1012,United States,Adult,F,No,Yes
+1013,Portugal,Adult,M,No,Yes
+1014,United Kingdom,Adult,M,No,Yes
+1015,United States,Adult,M,No,Yes
+1016,Costa Rica,Adult,M,No,Yes
+1017,United States,Adult,M,Yes,Yes
+1018,United Kingdom,Adult,M,Yes,No
+1019,United States,Adult,M,No,Yes
+1020,United States,Adult,M,Yes,Yes
+1021,United Kingdom,Adult,M,Yes,Yes
+1022,United States,Adult,M,Yes,Yes
+1023,Netherlands,Adult,M,No,Yes
+1024,United States,Adult,M,Yes,No
+1025,Ireland,Adult,M,Yes,Yes
+1026,United States,Adult,M,No,Yes
+1027,United States,Adult,M,No,Yes
+1028,United Kingdom,Adult,M,No,No
+1029,United States,Adult,M,Yes,Yes
+1030,United Kingdom,Adult,M,Yes,No
+1031,United States,Adult,M,No,Yes
+1032,United Kingdom,Adult,M,No,Yes
+1033,United States,Adult,M,Yes,No
+1034,United States,Adult,M,No,No
+1035,United States,Adult,M,Yes,No
+1036,United Kingdom,Adult,M,Yes,Yes
+1037,Canada,Adult,M,Yes,Yes
+1038,United States,Adult,M,No,Yes
+1039,United States,Adult,M,Yes,No
+1040,United States,Adult,M,Yes,Yes
+1041,Italy,Adult,M,No,Yes
+1042,United States,Adult,M,Yes,Yes
+1043,United States,Adult,M,Yes,Yes
+1044,United Kingdom,Adult,F,Yes,Yes
+1045,United States,Adult,F,No,No
+1046,United States,Adult,F,No,Yes
+1047,United Kingdom,Adult,F,No,Yes
+1048,United States,Adult,F,Yes,Yes
+1049,Canada,Adult,M,No,Yes
+1050,United Kingdom,Adult,M,Yes,Yes
+1051,United Kingdom,Adult,M,No,No
+1052,United States,Adult,M,Yes,Yes
+1053,United States,Adult,M,No,Yes
+1054,United States,Adult,M,No,Yes
+1055,United States,Adult,M,Yes,Yes
+1056,United States,Adult,M,Yes,Yes
+1057,United States,Adult,M,No,No
+1058,United Kingdom,Adult,M,Yes,Yes
+1059,Netherlands,Adult,M,No,Yes
+1060,United Kingdom,Adult,M,Yes,No
+1061,Canada,Adult,M,Yes,No
+1062,Switzerland,Adult,M,Yes,Yes
+1063,United States,Adult,M,No,Yes
+1064,United States,Adult,M,Yes,Yes
+1065,United States,Adult,M,No,Yes
+1066,United States,Adult,M,No,Yes
+1067,United States,Adult,M,No,Yes
+1068,United States,Adult,M,Yes,Yes
+1069,United States,Adult,M,Yes,Yes
+1070,United States,Adult,M,Yes,Yes
+1071,United Kingdom,Adult,M,Yes,Yes
+1072,United States,Adult,M,Yes,Yes
+1073,United Kingdom,Adult,M,Yes,No
+1074,United States,Adult,M,Yes,No
+1075,Netherlands,Adult,M,No,No
+1076,Greece,Adult,M,No,Yes
+1077,United States,Adult,F,Yes,Yes
+1078,United States,Adult,F,No,Yes
+1079,United States,Adult,F,Yes,No
+1080,United States,Adult,F,No,No
+1081,United States,Adult,F,Yes,No
+1082,United States,Adult,F,Yes,No
+1083,United States,Adult,F,No,Yes
+1084,United States,Adult,F,Yes,Yes
+1085,United States,Adult,F,No,Yes
+1086,United States,Adult,M,No,Yes
+1087,United States,Adult,M,Yes,Yes
+1088,United States,Adult,M,Yes,Yes
+1089,Ireland,Adult,M,No,Yes
+1090,Canada,Adult,M,No,Yes
+1091,Thailand,Adult,M,No,Yes
+1092,United States,Adult,M,No,Yes
+1093,United States,Adult,M,No,Yes
+1094,United States,Adult,M,Yes,Yes
+1095,United States,Adult,M,No,Yes
+1096,United States,Adult,M,Yes,Yes
+1097,United States,Adult,M,Yes,Yes
+1098,United States,Adult,M,Yes,Yes
+1099,United States,Adult,M,Yes,Yes
+1100,United States,Adult,M,Yes,Yes
+1101,United States,Adult,M,No,No
+1102,United States,Adult,M,No,No
+1103,United States,Adult,M,Yes,Yes
+1104,United States,Adult,M,Yes,Yes
+1105,United States,Adult,M,Yes,Yes
+1106,United States,Adult,M,No,No
+1107,United Kingdom,Adult,M,Yes,Yes
+1108,China,Adult,M,No,Yes
+1109,United States,Adult,M,Yes,Yes
+1110,United States,Adult,F,Yes,Yes
+1111,Netherlands,Adult,F,Yes,Yes
+1112,United States,Adult,F,Yes,Yes
+1113,United States,Adult,M,Yes,No
+1114,United States,Adult,M,Yes,Yes
+1115,United States,Adult,M,Yes,Yes
+1116,United States,Adult,M,Yes,Yes
+1117,United States,Adult,M,Yes,Yes
+1118,United States,Adult,M,Yes,Yes
+1119,Canada,Adult,M,Yes,Yes
+1120,United States,Adult,M,Yes,Yes
+1121,United States,Adult,M,Yes,Yes
+1122,United States,Adult,M,Yes,Yes
+1123,United States,Adult,M,No,Yes
+1124,United Kingdom,Adult,M,No,No
+1125,United States,Adult,M,No,No
+1126,United States,Adult,M,Yes,No
+1127,United States,Adult,M,No,Yes
+1128,Germany,Adult,M,Yes,Yes
+1129,United Kingdom,Adult,M,No,Yes
+1130,United States,Adult,M,No,Yes
+1131,United States,Adult,F,Yes,Yes
+1132,United States,Adult,F,Yes,No
+1133,Netherlands,Adult,f,Yes,Yes
+1134,United States,Adult,F,Yes,No
+1135,United States,Adult,M,Yes,Yes
+1136,United States,Adult,M,No,Yes
+1137,United States,Adult,M,No,Yes
+1138,New Zealand,Adult,M,No,Yes
+1139,United States,Adult,M,No,No
+1140,United States,Adult,M,No,No
+1141,Germany,Adult,M,No,Yes
+1142,United States,Adult,M,Yes,Yes
+1143,United States,Adult,M,No,No
+1144,New Zealand,Adult,M,Yes,No
+1145,United States,Adult,M,Yes,Yes
+1146,United States,Adult,M,Yes,Yes
+1147,United States,Adult,M,Yes,Yes
+1148,United States,Adult,M,No,No
+1149,Ireland,Adult,M,No,Yes
+1150,United States,Adult,M,Yes,Yes
+1151,United States,Adult,M,Yes,Yes
+1152,United States,Adult,f,Yes,Yes
+1153,United States,Adult,M,Yes,Yes
+1154,Canada,Adult,M,No,Yes
+1155,United States,Adult,M,Yes,Yes
+1156,United States,Adult,M,Yes,Yes
+1157,Germany,Adult,M,Yes,No
+1158,United States,Adult,M,No,Yes
+1159,United States,Adult,M,Yes,Yes
+1160,United States,Adult,M,No,Yes
+1161,France,Adult,M,No,Yes
+1162,United States,Adult,M,Yes,No
+1163,Croatia,Adult,M,Yes,Yes
+1164,United States,Adult,M,No,No
+1165,United Kingdom,Adult,M,Yes,Yes
+1166,United States,Adult,M,No,Yes
+1167,United Kingdom,Adult,M,No,No
+1168,United States,Adult,M,Yes,No
+1169,Mexico,Adult,M,No,Yes
+1170,United Kingdom,Adult,M,Yes,Yes
+1171,United States,Adult,M,No,No
+1172,United States,Adult,M,Yes,Yes
+1173,United States,Adult,M,No,Yes
+1174,United States,Adult,M,No,Yes
+1175,United States,Adult,M,Yes,Yes
+1176,United States,Adult,M,No,No
+1177,United States,Adult,M,No,Yes
+1178,United States,Adult,M,No,Yes
+1179,United States,Adult,F,No,Yes
+1180,United States,Adult,F,No,Yes
+1181,United States,Adult,M,No,No
+1182,United States,Adult,M,Yes,No
+1183,United States,Adult,M,Yes,Yes
+1184,United Kingdom,Adult,M,Yes,No
+1185,United States,Adult,M,Yes,Yes
+1186,United States,Adult,M,No,No
+1187,United States,Adult,M,No,Yes
+1188,United Kingdom,Adult,M,Yes,No
+1189,United States,Adult,M,Yes,Yes
+1190,United States,Adult,F,Yes,Yes
+1191,United States,Adult,F,Yes,No
+1192,United States,Adult,M,Yes,Yes
+1193,United States,Adult,M,Yes,Yes
+1194,United States,Adult,M,Yes,Yes
+1195,Ireland,Adult,M,Yes,Yes
+1196,United States,Adult,M,Yes,Yes
+1197,United States,Adult,M,Yes,Yes
+1198,United States,Adult,M,No,No
+1199,United Kingdom,Adult,M,No,No
+1200,United States,Adult,M,No,Yes
+1201,Ireland,Adult,M,No,Yes
+1202,United States,Adult,F,Yes,No
+1203,United States,Adult,f,No,Yes
+1204,United States,Adult,F,Yes,No
+1205,United States,Adult,M,No,Yes
+1206,United States,Adult,M,Yes,Yes
+1207,United States,Adult,M,No,Yes
+1208,United States,Adult,M,Yes,Yes
+1209,United States,Adult,M,Yes,Yes
+1210,United States,Adult,M,Yes,No
+1211,United States,Adult,M,Yes,Yes
+1212,United States,Adult,M,Yes,Yes
+1213,United States,Adult,M,Yes,Yes
+1214,United States,Adult,F,No,Yes
+1215,United States,Adult,M,Yes,Yes
+1216,United States,Adult,F,No,Yes
+1217,United Kingdom,Adult,M,No,Yes
+1218,United States,Adult,M,No,Yes
+1219,United States,Adult,M,Yes,Yes
+1220,Australia,Adult,M,Yes,Yes
+1221,United States,Adult,M,No,No
+1222,Japan,Adult,M,Yes,Yes
+1223,United States,Adult,M,Yes,Yes
+1224,United States,Adult,M,Yes,Yes
+1225,United States,Adult,M,No,Yes
+1226,United States,Adult,M,No,Yes
+1227,United States,Adult,M,No,Yes
+1228,United States,Adult,M,No,Yes
+1229,United States,Adult,M,No,Yes
+1230,United States,Adult,M,No,Yes
+1231,France,Adult,M,Yes,Yes
+1232,New Zealand,Adult,M,Yes,Yes
+1233,United States,Adult,M,No,Yes
+1234,United States,Adult,M,No,No
+1235,United States,Adult,M,No,Yes
+1236,Singapore,Adult,M,No,Yes
+1237,United States,Adult,M,Yes,Yes
+1238,United States,Adult,M,Yes,Yes
+1239,United Kingdom,Adult,M,Yes,No
+1240,United Kingdom,Adult,M,Yes,Yes
+1241,United States,Adult,M,Yes,Yes
+1242,United States,Adult,M,Yes,Yes
+1243,United Kingdom,Adult,M,Yes,No
+1244,United States,Adult,F,No,Yes
+1245,United States,Adult,M,Yes,Yes
+1246,United States,Adult,M,Yes,Yes
+1247,United States,Adult,M,Yes,Yes
+1248,United States,Adult,M,Yes,Yes
+1249,United States,Adult,M,Yes,Yes
+1250,United States,Adult,M,No,Yes
+1251,United States,Adult,M,Yes,Yes
+1252,United States,Adult,M,No,Yes
+1253,United States,Adult,M,Yes,Yes
+1254,South Africa,Adult,M,Yes,Yes
+1255,United States,Adult,M,No,Yes
+1256,United States,Adult,M,No,No
+1257,United States,Adult,F,Yes,No
+1258,United States,Adult,M,Yes,Yes
+1259,Zimbabwe,Adult,F,Yes,Yes
