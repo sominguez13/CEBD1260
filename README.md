@@ -6,7 +6,7 @@ Complete both questions in a single jupyter notebook and upload to github repo i
 
 Answers should include both code and written explanation / interpretation of results. Be sure to answer all parts of the question completely.
 
-## Question No.1) Your first task to is to classify data from a cancer diagnostic database. In this database are patients with tumors, characteristics of those tumors, and biospy results indicating whether the tumor is Malignant or Benign.
+# Question No.1) Your first task to is to classify data from a cancer diagnostic database. In this database are patients with tumors, characteristics of those tumors, and biospy results indicating whether the tumor is Malignant or Benign.
 
 
 In cancer_data.txt you will find the following variables:
