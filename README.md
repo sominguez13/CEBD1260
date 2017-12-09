@@ -6,7 +6,7 @@ Complete both questions in a single jupyter notebook and upload to github repo i
 
 Answers should include both code and written explanation / interpretation of results. Be sure to answer all parts of the question completely.
 
-### Question No.1) Your first task to is to classify data from a cancer diagnostic database. In this database are patients with tumors, characteristics of those tumors, and biospy results indicating whether the tumor is Malignant or Benign.
+#### Question No.1) Your first task to is to classify data from a cancer diagnostic database. In this database are patients with tumors, characteristics of those tumors, and biospy results indicating whether the tumor is Malignant or Benign.
 
 
 In cancer_data.txt you will find the following variables:
@@ -36,7 +36,7 @@ Use any machine learning algorithm you wish. In your answer include a short desc
    - concae points: 0.04
    - symmetry: 0.18
    - fractal dimension: 0.05
-### Question No. 2) The following code contains a 5 bugs (errors). Find and correct them all and then answer the following questions:
+#### Question No. 2) The following code contains a 5 bugs (errors). Find and correct them all and then answer the following questions:
 
   1. How many observations are in the training dataset?
   2. How many features are in the training dataset?
